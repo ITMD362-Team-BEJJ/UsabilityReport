@@ -11,3 +11,4 @@ The user noted that the payment page does not look professional and secure, but 
 ## Usability Test 3
 
 ## Summary
+Usability Tests are a very good way of getting a feel how your website will function on real life. In the end of the day it is very important to know what the website users experience. The purpose of our website mainly is to be easy to understand and use from our customers. These test showed to us that we still have some changes to do to make this website fully compatible with modern standards of usability. We got very good feedbacks from all 3 Test's users. They all come from different backgrounds and were able to give us feedback based on different prospectives. Usability test it is a very good technique that we are looking forward to use in our future carriers. 
